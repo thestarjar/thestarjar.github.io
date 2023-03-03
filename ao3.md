@@ -53,9 +53,7 @@ Include in workskin:
 ```
 
 Replacable text in body (this can be inline with a paragraph, or whatever you want)
-```
-<span class="hovernote"><span class="hasnote">NORMALLY DISPLAYED TEXT</span><span class="thenote">THIS TEXT APPEARS ON HOVER</span></span>
-```
+`<span class="hovernote"><span class="hasnote">NORMALLY DISPLAYED TEXT</span><span class="thenote">THIS TEXT APPEARS ON HOVER</span></span>`
 
 ## Personal Workflow
 I love dying and being dead
