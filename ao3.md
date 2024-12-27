@@ -1,6 +1,8 @@
 Guide to spoiler-hover and replace-hover text on Ao3
 
 ## Hover-Spoiler Content Warnings
+ETA: For spoilered CWs, you should probably just use [summary and details tags](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details); this method is more elaborate AND less accessible
+
 Include in workskin:
 
 ```
