@@ -59,6 +59,8 @@ Replacable text in body (this can be inline with a paragraph, or whatever you wa
 ## Personal Workflow
 I love dying and being dead
 
+Note: I write [initial text//hover text] in my writing draft, the find-replace below (in step 8) assumes that's how it was written
+
 1. Dump my rich text draft into [textmark](https://textmark.js.org/)
 2. Copy from there to Notepad++
 3. CTRL+H for find/replace and turn on REGULAR EXPRESSION mode
